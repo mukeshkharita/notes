@@ -12,7 +12,7 @@ site:
     siteRootDir: docs
     siteUrl: https://notes.mukeshkharita.com
     usePrettyRefs: true
-    title: Dendron
+    title: Notes
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
