@@ -2,7 +2,7 @@
 id: 3zWwf3QC45z2zdjzoV5Hu
 title: '2022-01-23'
 desc: ''
-updated: 1642961367910
+updated: 1642961697532
 created: 1642960770994
 traitIds:
   - journalNote
@@ -12,4 +12,4 @@ Weekend yay.
 
 Set up this [page](notes.mukeshkharita.com).
 
-(Ran for 5 kms.)[https://www.strava.com/activities/6569460379]
+[Ran for 5 kms.](https://www.strava.com/activities/6569460379)
