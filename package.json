@@ -1,0 +1,23 @@
+{
+  "name": "Dendron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshkharita/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukeshkharita/notes/issues"
+  },
+  "homepage": "https://github.com/mukeshkharita/notes#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.78.4"
+  }
+}
